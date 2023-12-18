@@ -12,7 +12,7 @@ This notebook contains novel methods for finding Maximal Independent Objectives 
 
 ### [ML_ManyObjective_Duro.ipynb](ML_ManyObjective_Duro.ipynb)
 
-This notebook contains the implementation for the method proposed by [https://bibbase.org/network/publication/duro-saxena-deb-zhang-machinelearningbaseddecisionsupportformanyobjectiveoptimizationproblems-2014](Duro et al) for finding objective selection in optimisation.
+This notebook contains the implementation for the method proposed by [Duro et al](https://bibbase.org/network/publication/duro-saxena-deb-zhang-machinelearningbaseddecisionsupportformanyobjectiveoptimizationproblems-2014) for finding objective selection in optimisation.
 
 ### [MPM_Jorge_Fome.ipynb](MPM_Jorge_Fome.ipynb)
 
